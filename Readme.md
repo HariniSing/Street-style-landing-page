@@ -3,6 +3,8 @@
 -----------------------------------------
 ![badge](https://img.shields.io/badge/Project-2-green)
 
+ [Deployed Link](https://street-style-landing-page-by-hs.netlify.app/)
+
 
 <img src="./2.png">
 
